@@ -1,23 +1,23 @@
-```html
-<div align="center">
+ <div align="center">
 
-<img src="./assets/download%20(7).jpg"
-     width="100%"
-     alt="Hawkins under a supernatural storm"/>
+<img src="./assets/download%20(7).jpg" width="100%" alt="Hawkins beneath the supernatural storm"/>
 
 <br/>
 
-# K. GANESH
+<h1>Ｋ. ＧＡＮＥＳＨ</h1>
 
-### HAWKINS LAB // DEVELOPER ARCHIVES
+<p>
+  <strong>HAWKINS LABORATORY</strong><br/>
+  <sub>DEVELOPER ARCHIVES · CLASSIFIED ACCESS</sub>
+</p>
 
-`ARTIFICIAL INTELLIGENCE` · `IMMERSIVE WORLDS` · `SOFTWARE ENGINEERING`
+<img src="https://img.shields.io/badge/STATUS-SIGNAL%20DETECTED-8b0000?style=for-the-badge&labelColor=080808" alt="Signal detected"/>
 
-<br/>
+<br/><br/>
 
-**THE SIGNAL IS ACTIVE.**
-
-[ EXPLORE MY REPOSITORIES ](https://github.com/gan1014?tab=repositories)
+<a href="https://github.com/gan1014?tab=repositories">EXPLORE THE ARCHIVES</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/gan1014">GITHUB PROFILE</a>
 
 </div>
 
@@ -25,65 +25,85 @@
 
 <div align="center">
 
-## `01 — SUBJECT IDENTIFIED`
+### `01 // SUBJECT IDENTIFIED`
 
-*Computer Science Engineering · AI/ML · Unity & VR*
+**COMPUTER SCIENCE ENGINEERING · AI / ML · IMMERSIVE TECHNOLOGY**
 
-Building intelligent systems, immersive simulations,
-and software that turns ideas into working experiences.
+Building intelligent systems, predictive applications, and immersive digital experiences.
+
+*Somewhere between artificial intelligence and the unknown.*
 
 </div>
 
 ---
 
-## `02 — CLASSIFIED EXPERIMENTS`
+<div align="center">
+
+<img src="./assets/download%20(8).jpg" width="48%" alt="Supernatural signal"/>
+<img src="./assets/download%20(9).jpg" width="48%" alt="Dimensional interference"/>
+
+### `02 // DIMENSIONAL BREACH`
+
+`SIGNAL ACQUIRED` · `REALITY UNSTABLE` · `ACCESS GRANTED`
+
+</div>
+
+## `03 // CLASSIFIED EXPERIMENTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 NALAM AI
+<h3>01 — NALAM AI</h3>
 
-Disease outbreak prediction and response for Tamil Nadu.
+**Disease Outbreak Intelligence**
+
+An AI-driven disease outbreak prediction and response project designed for public-health monitoring in Tamil Nadu.
 
 `PYTHON` `XGBOOST` `LSTM`
 
-[ACCESS PROJECT →](https://github.com/gan1014/Nalam_AI_2.0)
+<a href="https://github.com/gan1014/Nalam_AI_2.0">ACCESS PROJECT →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔻 INDUSENSE
+<h3>02 — INDUSENSE</h3>
 
-AI-enabled virtual reality industrial training and predictive safety assessment.
+**Adaptive Industrial VR Training**
+
+A virtual reality training framework combining Unity simulations and machine learning for industrial safety assessment.
 
 `UNITY` `C#` `MACHINE LEARNING`
 
-[VIEW REPOSITORIES →](https://github.com/gan1014?tab=repositories)
+<a href="https://github.com/gan1014?tab=repositories">ACCESS PROJECTS →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ AI LAB
+<h3>03 — THE AI LAB</h3>
 
-Exploring language models, RAG, and intelligent AI assistants.
+**Intelligent Systems & Agents**
+
+Exploring retrieval-augmented generation, language models, and AI assistant workflows.
 
 `PYTHON` `LLMs` `RAG`
 
-[OPEN THE ARCHIVES →](https://github.com/gan1014?tab=repositories)
+<a href="https://github.com/gan1014?tab=repositories">OPEN ARCHIVES →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ IMMERSIVE WORLDS
+<h3>04 — IMMERSIVE WORLDS</h3>
 
-Unity games, VR simulations, and interactive environments.
+**Unity, VR & Interactive Simulations**
+
+Developing interactive environments, games, and virtual training experiences.
 
 `UNITY` `C#` `3D`
 
-[ENTER THE LAB →](https://github.com/gan1014?tab=repositories)
+<a href="https://github.com/gan1014?tab=repositories">ENTER THE LAB →</a>
 
 </td>
 </tr>
@@ -93,15 +113,21 @@ Unity games, VR simulations, and interactive environments.
 
 <div align="center">
 
-## `03 — SURVEILLANCE MONITOR`
+<img src="./assets/download%20(10).jpg" width="100%" alt="Hawkins and the Upside Down"/>
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=gan1014&show_icons=true&hide_border=true&bg_color=08090B&title_color=FF303B&text_color=E6DADA&icon_color=FF303B"
-alt="GitHub statistics"/>
+### `04 // LABORATORY EQUIPMENT`
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan1014&layout=compact&hide_border=true&bg_color=08090B&title_color=FF303B&text_color=E6DADA"
-alt="Most-used programming languages"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=E5484D" alt="Python"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-111111?style=for-the-badge&logo=tensorflow&logoColor=E5484D" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-111111?style=for-the-badge&logo=scikitlearn&logoColor=E5484D" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/UNITY-111111?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity"/>
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=E5484D" alt="C sharp"/>
+<img src="https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=E5484D" alt="React"/>
+<img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
 
 </div>
 
@@ -109,15 +135,30 @@ alt="Most-used programming languages"/>
 
 <div align="center">
 
-<img src="./assets/download%20(10).jpg"
-     width="100%"
-     alt="The other side of Hawkins"/>
+### `05 // SURVEILLANCE MONITOR`
+
+<img src="https://github-readme-stats.vercel.app/api?username=gan1014&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E5484D&text_color=E5E5E5&icon_color=E5484D" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan1014&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5484D&text_color=E5E5E5" alt="Most-used languages"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ### FRIENDS DON'T LIE.
 
-*The other side is waiting.*
+*Keep building. Keep exploring. Never stop at the edge of the known world.*
 
-[ ENTER THE ARCHIVES →](https://github.com/gan1014?tab=repositories)
+<img src="./assets/download%20(7).jpg" width="100%" alt="The road to Hawkins"/>
+
+<br/>
+
+<a href="https://github.com/gan1014?tab=repositories">ENTER THE ARCHIVES →</a>
+
+<br/><br/>
+
+<sub>HAWKINS LAB · END OF TRANSMISSION</sub>
 
 </div>
-```
