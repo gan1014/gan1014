@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1>Ｋ. ＧＡＮＥＳＨ</h1>
+<h1>Ｋ.ＧＡＮＥＳＨ</h1>
 
 <p>
   <strong>HAWKINS LABORATORY</strong><br/>
@@ -48,72 +48,91 @@ Building intelligent systems, predictive applications, and immersive digital exp
 
 </div>
 
-## `03 // CLASSIFIED EXPERIMENTS`
+## 🩸 `03 // CLASSIFIED EXPERIMENTS`
+
+<div align="center">
+
+<img src="./assets/download%20(9).jpg" width="100%" alt="Dimensional interference between Hawkins and the Upside Down"/>
+
+<p>
+  <img src="https://img.shields.io/badge/HAWKINS_LAB-RESTRICTED-8B0000?style=for-the-badge&labelColor=080808" alt="Hawkins Lab restricted"/>
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-ELEVATED-8B0000?style=for-the-badge&labelColor=080808" alt="Threat level elevated"/>
+</p>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 — NALAM AI</h3>
+<h3>🩸 01 / NALAM AI</h3>
 
-**Disease Outbreak Intelligence**
+<strong>DISEASE OUTBREAK INTELLIGENCE</strong>
 
-An AI-driven disease outbreak prediction and response project designed for public-health monitoring in Tamil Nadu.
+An AI-driven public-health intelligence system exploring disease outbreak prediction and response across Tamil Nadu.
 
-`PYTHON` `XGBOOST` `LSTM`
+<img src="https://img.shields.io/badge/PYTHON-161616?style=flat-square&logo=python&logoColor=E5484D" alt="Python"/>
+<img src="https://img.shields.io/badge/XGBOOST-161616?style=flat-square&logoColor=E5484D" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LSTM-161616?style=flat-square" alt="LSTM"/>
 
-<a href="https://github.com/gan1014/Nalam_AI_2.0">ACCESS PROJECT →</a>
+<a href="https://github.com/gan1014/Nalam_AI_2.0">ACCESS THE PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 — INDUSENSE</h3>
+<h3>🔻 02 / INDUSENSE</h3>
 
-**Adaptive Industrial VR Training**
+<strong>ADAPTIVE INDUSTRIAL VR TRAINING</strong>
 
-A virtual reality training framework combining Unity simulations and machine learning for industrial safety assessment.
+An immersive Unity training framework combining virtual simulations with machine learning for industrial safety assessment.
 
-`UNITY` `C#` `MACHINE LEARNING`
+<img src="https://img.shields.io/badge/UNITY-161616?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity"/>
+<img src="https://img.shields.io/badge/C%23-161616?style=flat-square&logo=csharp&logoColor=E5484D" alt="C sharp"/>
+<img src="https://img.shields.io/badge/ML-161616?style=flat-square&logoColor=E5484D" alt="Machine learning"/>
 
-<a href="https://github.com/gan1014?tab=repositories">ACCESS PROJECTS →</a>
+<a href="https://github.com/gan1014?tab=repositories">LOCATE PROJECT ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 — THE AI LAB</h3>
+<h3>⚡ 03 / THE AI LAB</h3>
 
-**Intelligent Systems & Agents**
+<strong>INTELLIGENT SYSTEMS & AGENTS</strong>
 
-Exploring retrieval-augmented generation, language models, and AI assistant workflows.
+Exploring retrieval-augmented generation, language models, and intelligent assistant workflows.
 
-`PYTHON` `LLMs` `RAG`
+<img src="https://img.shields.io/badge/PYTHON-161616?style=flat-square&logo=python&logoColor=E5484D" alt="Python"/>
+<img src="https://img.shields.io/badge/LLMs-161616?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-161616?style=flat-square" alt="RAG"/>
 
-<a href="https://github.com/gan1014?tab=repositories">OPEN ARCHIVES →</a>
+<a href="https://github.com/gan1014?tab=repositories">OPEN THE ARCHIVES ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 — IMMERSIVE WORLDS</h3>
+<h3>🌌 04 / IMMERSIVE WORLDS</h3>
 
-**Unity, VR & Interactive Simulations**
+<strong>UNITY · VR · INTERACTIVE SIMULATIONS</strong>
 
-Developing interactive environments, games, and virtual training experiences.
+Building interactive environments, Unity games, and immersive virtual training experiences.
 
-`UNITY` `C#` `3D`
+<img src="https://img.shields.io/badge/UNITY-161616?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity"/>
+<img src="https://img.shields.io/badge/C%23-161616?style=flat-square&logo=csharp&logoColor=E5484D" alt="C sharp"/>
+<img src="https://img.shields.io/badge/3D-161616?style=flat-square" alt="3D"/>
 
-<a href="https://github.com/gan1014?tab=repositories">ENTER THE LAB →</a>
+<a href="https://github.com/gan1014?tab=repositories">ENTER THE LAB ↗</a>
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-<img src="./assets/download%20(10).jpg" width="100%" alt="Hawkins and the Upside Down"/>
+<sub>⚠ FILES CLASSIFIED · AUTHORIZED ACCESS ONLY · HAWKINS LABORATORY</sub>
+
+</div>
 
 ### `04 // LABORATORY EQUIPMENT`
 
